@@ -35,7 +35,7 @@ Finally our aim is to answer our query, “The people like the new budget or not
 
 __Training Data Source:__
 
-__Description:__ [Sentiment140 Dataset](http://help.sentiment140.com/for-students)
+__Description:__ [Sentiment140 Dataset](http://help.sentiment140.com/for-students) (Last Accessed on: 27-07-2019) 
 
 __Dataset name:__ train123.csv
 
@@ -53,7 +53,7 @@ __Test Data:__
 
 Description: This is a data collected specifically for this project.
 
-Dataset name: ~~test12.csv~~ ~~uniondata.csv~~ tweetsdata.csv
+Dataset name: ~~test12.csv~~ ~~uniondata.csv~~ [tweetsdata.csv](https://github.com/globsyn-group-4/Union-budget-sentiment-analysis-2019/blob/master/tweetsdata.csv)
 
 Format:
 1. 709 rows
@@ -65,7 +65,7 @@ Requirements for data scraping:
 
 ..* Google Chrome with Web Scraper extension
 
-..* [Twitter Advanced Search Scraper](https://gist.github.com/scrapehero/d0305d8d15b0e447dcefdf548a)
+..* [Twitter Advanced Search Scraper](https://gist.github.com/scrapehero/d0305d8d15b0e447dcefdf548a) (Last Accessed on: 27-07-2019) 
 
 
 ## Code:
