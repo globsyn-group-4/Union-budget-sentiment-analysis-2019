@@ -31,7 +31,7 @@ gives the best result.
 
 Finally our aim is to answer our query, “The people like the new budget or not”.
 
-## Data Description
+## Data Description:
 
 __Training Data Source:__
 
@@ -59,6 +59,14 @@ Format:
 2. 1 Column (tweets)
 
 Requirements for data scraping:
+
 ..* The Advanced Search URL for tweets on Twitter for Union Budget 2019
+
 ..* Google Chrome with Web Scraper extension
+
 ..* [Twitter Advanced Search Scraper](https://gist.github.com/scrapehero/d0305d8d15b0e447dcefdf548a)
+
+
+## Code:
+
+Filename: code.ipynb
