@@ -41,6 +41,7 @@ __Dataset name:__ train123.csv
 
 __Format:__
 The data is a CSV with emoticons removed. Data file format has 6 fields:
+
 0. The polarity of the tweet (0 = negative, 4 = positive)
 1. The id of the tweet (2087)
 2. The date of the tweet (Sat May 16 23:58:44 UTC 2009)
@@ -69,4 +70,8 @@ Requirements for data scraping:
 
 ## Code:
 
-Filename: code.ipynb
+Filename: [code.ipynb](https://github.com/globsyn-group-4/Union-budget-sentiment-analysis-2019/blob/master/code.ipynb)
+
+## Documentation
+
+Filename: [Sentimental Analysis of Union Budget 2019.pdf](https://github.com/globsyn-group-4/Union-budget-sentiment-analysis-2019/blob/master/Sentimental%20Analysis%20of%20Union%20Budget%202019.pdf)
