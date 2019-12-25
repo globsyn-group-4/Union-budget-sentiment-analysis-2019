@@ -12,10 +12,12 @@ statements and actions at the government level. It can be used to predict electi
 this project we have a dataset of Union Budget 2019 of India that consists of tweets of public about
 Budget and label that opinion is positive or negative.
 
-Disclaimer: Our sentiment analysis is purely based on collected data from tweets on the social
+__Disclaimer:__ Our sentiment analysis is purely based on collected data from tweets on the social
 networking platform “Twitter”. The data is collected on an unbiased method. This analysis is solely
 for educational purposes.
-Scope: In the following project, we use the sentiment140 dataset and uniondata dataset as training
+
+## Scope: 
+In the following project, we use the sentiment140 dataset and uniondata dataset as training
 and testing data respectively. Firstly we perform the Lexicon-Based Sentiment Analyser to find out
 the count of positive and negative tweets from the union data.
 Then comes the Machine Learning approach for sentiment analysis. In this technique, firstly the
@@ -25,4 +27,5 @@ feature vector of the training dataset. Then, we implement the classifiers const
 pipelines for each of them. Next, we train the dataset and store the performance metrics in a list.
 Lastly we show the positive and negative sentiment count for each classifier and see which classifier
 gives the best result.
+
 Finally our aim is to answer our query, “The people like the new budget or not”.
