@@ -20,6 +20,7 @@ for educational purposes.
 In the following project, we use the sentiment140 dataset and uniondata dataset as training
 and testing data respectively. Firstly we perform the Lexicon-Based Sentiment Analyser to find out
 the count of positive and negative tweets from the union data.
+
 Then comes the Machine Learning approach for sentiment analysis. In this technique, firstly the
 dataset are splited in X_train and X_test dataset to conduct training with X_train and test the
 performance with X_test. Following this, we clean up the test and training dataset and construct the
@@ -35,6 +36,7 @@ Finally our aim is to answer our query, “The people like the new budget or not
 __Training Data Source:__
 
 __Description:__ [Sentiment140 Dataset](http://help.sentiment140.com/for-students)
+
 __Dataset name:__ train123.csv
 
 __Format:__
@@ -47,8 +49,11 @@ The data is a CSV with emoticons removed. Data file format has 6 fields:
 5. The text of the tweet (Lyx is cool)
 
 __Test Data:__
+
 Description: This is a data collected specifically for this project.
+
 Dataset name: ~~test12.csv~~ ~~uniondata.csv~~ tweetsdata.csv
+
 Format:
 1. 709 rows
 2. 1 Column (tweets)
