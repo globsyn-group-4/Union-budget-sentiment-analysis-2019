@@ -61,11 +61,11 @@ Format:
 
 Requirements for data scraping:
 
-..* The Advanced Search URL for tweets on Twitter for Union Budget 2019
+* The Advanced Search URL for tweets on Twitter for Union Budget 2019
 
-..* Google Chrome with Web Scraper extension
+* Google Chrome with Web Scraper extension
 
-..* [Twitter Advanced Search Scraper](https://gist.github.com/scrapehero/d0305d8d15b0e447dcefdf548a) (Last Accessed on: 27-07-2019) 
+* [Twitter Advanced Search Scraper](https://gist.github.com/scrapehero/d0305d8d15b0e447dcefdf548a) (Last Accessed on: 27-07-2019) 
 
 
 ## Code:
