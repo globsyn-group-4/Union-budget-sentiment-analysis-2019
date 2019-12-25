@@ -29,3 +29,30 @@ Lastly we show the positive and negative sentiment count for each classifier and
 gives the best result.
 
 Finally our aim is to answer our query, “The people like the new budget or not”.
+
+## Data Description
+
+__Training Data Source:__
+__Description:__ [Sentiment140 Dataset](http://help.sentiment140.com/for-students)
+__Dataset name:__ train123.csv
+
+__Format:__
+The data is a CSV with emoticons removed. Data file format has 6 fields:
+0. The polarity of the tweet (0 = negative, 4 = positive)
+1. The id of the tweet (2087)
+2. The date of the tweet (Sat May 16 23:58:44 UTC 2009)
+3. The query (lyx). If there is no query, then this value is NO_QUERY.
+4. The user that tweeted (robotickilldozr)
+5. The text of the tweet (Lyx is cool)
+
+__Test Data:__
+Description: This is a data collected specifically for this project.
+Dataset name: ~~test12.csv~~ ~~uniondata.csv~~ tweetsdata.csv
+Format:
+1. 709 rows
+2. 1 Column (tweets)
+
+Requirements for data scraping:
+..* The Advanced Search URL for tweets on Twitter for Union Budget 2019
+..* Google Chrome with Web Scraper extension
+..* [Twitter Advanced Search Scraper](https://gist.github.com/scrapehero/d0305d8d15b0e447dcefdf548a)
